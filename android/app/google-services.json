@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90600475081",
+    "project_id": "cashew-a3609",
+    "storage_bucket": "cashew-a3609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90600475081:android:910276116c2a6107670018",
+        "android_client_info": {
+          "package_name": "com.cashew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90600475081-ufckrru5uo4l4h0o711fc1rmtbmnn137.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashew",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "90600475081-l923qoic6cbpalvgo64s4v63vu393ujg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQdk2XRohPHwRYR_SsTunuk1bARYG1VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90600475081-l923qoic6cbpalvgo64s4v63vu393ujg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
