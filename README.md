@@ -1,3 +1,3 @@
-# Cashew
+# POINT OF SALE FOR COFFEE SHOP
 
-Using react native
+Building with use react native
